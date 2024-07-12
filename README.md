@@ -1,5 +1,6 @@
-# Flickr Caption Generator
+# End to end Image Captioning system
 
+Flickr Caption Generator 
 This project aims to generate captions for images from the Flickr 8k dataset using a deep learning model. The model leverages the InceptionV3 architecture for image feature extraction and a Bidirectional LSTM for caption generation.
 
 ## Project Structure
@@ -38,4 +39,4 @@ This project aims to generate captions for images from the Flickr 8k dataset usi
 - ** Keras documentation on InceptionV3
 
 ## License 
--- ** This project is licensed under the GNU General Public License (GPL).
+- ** This project is licensed under the GNU General Public License (GPL).
